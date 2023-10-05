@@ -1,0 +1,457 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2023,
+      "price_per_month": 400.0,
+      "people": 4,
+      "Automatic": "Automatic",
+      "km_per_liter": 15.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvUrmyUHsUCyR9LnhX5wIkg_AXoO35xGVxQ"
+    },
+    {
+      "Automatic": "Automatic",
+      "id": 2,
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "price_per_month": 380.0,
+      "km_per_liter": 14.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnMXTF5e_THQ0FeUUvWZhcCBxSUZJ1iJAz4A"
+    },
+    {
+      "Automatic": "Automatic",
+      "id": 3,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price_per_month": 500.0,
+      "km_per_liter": 10.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y-ygEumYX8DDAmU3BSZw0I-uaSfrxbQfXA"
+    },
+    {
+      "id": 4,
+      "Automatic": "Automatic",
+      "brand": "Chevrolet",
+      "model": "Silverado",
+      "year": 2023,
+      "price_per_month": 450.0,
+      "km_per_liter": 9.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAQ6G3zMz5w_bthrIu8-A46pq0LCnwOyFyg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "Automatic": "Automatic",
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2023,
+      "price_per_month": 420.0,
+      "km_per_liter": 13.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FVXLTbcO824r_PeH-NlK8JYZqH_mcj4o7g"
+    },
+    {
+      "id": 6,
+      "Automatic": "Automatic",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "year": 2023,
+      "price_per_month": 440.0,
+      "km_per_liter": 12.6,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbXNVfJQvT_H8kk2Z-eMSOa4b94ucgYoAPg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "brand": "Subaru",
+      "model": "Outback",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 470.0,
+      "km_per_liter": 11.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSUtiak7hZ9OB1mSd1qy2UjIj6f-WlI9b9g&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "brand": "Kia",
+      "model": "Sportage",
+      "year": 2023,
+      "price_per_month": 410.0,
+      "km_per_liter": 14.3,
+      "Automatic": "Automatic",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPf7z0rkLIvgXwqilfR284AMSkJa9yWI9_w&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2023,
+      "price_per_month": 390.0,
+      "Automatic": "Automatic",
+      "km_per_liter": 13.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKQJXgrdmsgraXKS-l_QrQvZZXPB103TvUw&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 430.0,
+      "km_per_liter": 12.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtL3pyglK1IE82-BxC1q2Yzp-ut0pqb1nfg&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "brand": "BMW",
+      "model": "3 Series",
+      "Automatic": "Automatic",
+      "year": 2023,
+      "price_per_month": 550.0,
+      "km_per_liter": 10.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhznJFLsBLn9WlrzIf9fjxM6GjYMYjLFPfg&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "Automatic": "Automatic",
+      "year": 2023,
+      "price_per_month": 580.0,
+      "km_per_liter": 9.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNc5aUPxqdxcN8d5XM9uRhCiJvABW1kUQSw&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "Automatic": "Automatic",
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2023,
+      "price_per_month": 540.0,
+      "km_per_liter": 11.0,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDDuuLrSz1qVwhdZS49gBd-n8EttYtwwY2oQ&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "brand": "Lexus",
+      "model": "RX",
+      "year": 2023,
+      "price_per_month": 600.0,
+      "Automatic": "Automatic",
+      "km_per_liter": 10.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtyx9SNenoBqhASi8VBbX-IMYE5TVrL8ELA&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 700.0,
+      "km_per_liter": 0.0,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhedhNJ8t3Y_Fw12nBV0Gb-TGSMOkxtEWFEw&usqp=CAU"
+    },
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2023,
+      "price_per_month": 400.0,
+      "people": 4,
+      "Automatic": "Automatic",
+      "km_per_liter": 15.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvUrmyUHsUCyR9LnhX5wIkg_AXoO35xGVxQ"
+    },
+    {
+      "Automatic": "Automatic",
+      "id": 2,
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "price_per_month": 380.0,
+      "km_per_liter": 14.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnMXTF5e_THQ0FeUUvWZhcCBxSUZJ1iJAz4A"
+    },
+    {
+      "Automatic": "Automatic",
+      "id": 3,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price_per_month": 500.0,
+      "km_per_liter": 10.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y-ygEumYX8DDAmU3BSZw0I-uaSfrxbQfXA"
+    },
+    {
+      "id": 4,
+      "Automatic": "Automatic",
+      "brand": "Chevrolet",
+      "model": "Silverado",
+      "year": 2023,
+      "price_per_month": 450.0,
+      "km_per_liter": 9.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAQ6G3zMz5w_bthrIu8-A46pq0LCnwOyFyg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "Automatic": "Automatic",
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2023,
+      "price_per_month": 420.0,
+      "km_per_liter": 13.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FVXLTbcO824r_PeH-NlK8JYZqH_mcj4o7g"
+    },
+    {
+      "id": 6,
+      "Automatic": "Automatic",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "year": 2023,
+      "price_per_month": 440.0,
+      "km_per_liter": 12.6,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbXNVfJQvT_H8kk2Z-eMSOa4b94ucgYoAPg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "brand": "Subaru",
+      "model": "Outback",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 470.0,
+      "km_per_liter": 11.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSUtiak7hZ9OB1mSd1qy2UjIj6f-WlI9b9g&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "brand": "Kia",
+      "model": "Sportage",
+      "year": 2023,
+      "price_per_month": 410.0,
+      "km_per_liter": 14.3,
+      "Automatic": "Automatic",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPf7z0rkLIvgXwqilfR284AMSkJa9yWI9_w&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2023,
+      "price_per_month": 390.0,
+      "Automatic": "Automatic",
+      "km_per_liter": 13.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKQJXgrdmsgraXKS-l_QrQvZZXPB103TvUw&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 430.0,
+      "km_per_liter": 12.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtL3pyglK1IE82-BxC1q2Yzp-ut0pqb1nfg&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "brand": "BMW",
+      "model": "3 Series",
+      "Automatic": "Automatic",
+      "year": 2023,
+      "price_per_month": 550.0,
+      "km_per_liter": 10.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhznJFLsBLn9WlrzIf9fjxM6GjYMYjLFPfg&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "Automatic": "Automatic",
+      "year": 2023,
+      "price_per_month": 580.0,
+      "km_per_liter": 9.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNc5aUPxqdxcN8d5XM9uRhCiJvABW1kUQSw&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "Automatic": "Automatic",
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2023,
+      "price_per_month": 540.0,
+      "km_per_liter": 11.0,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDDuuLrSz1qVwhdZS49gBd-n8EttYtwwY2oQ&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "brand": "Lexus",
+      "model": "RX",
+      "year": 2023,
+      "price_per_month": 600.0,
+      "Automatic": "Automatic",
+      "km_per_liter": 10.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtyx9SNenoBqhASi8VBbX-IMYE5TVrL8ELA&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 700.0,
+      "km_per_liter": 0.0,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhedhNJ8t3Y_Fw12nBV0Gb-TGSMOkxtEWFEw&usqp=CAU"
+    },
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2023,
+      "price_per_month": 400.0,
+      "people": 4,
+      "Automatic": "Automatic",
+      "km_per_liter": 15.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgvUrmyUHsUCyR9LnhX5wIkg_AXoO35xGVxQ"
+    },
+    {
+      "Automatic": "Automatic",
+      "id": 2,
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "price_per_month": 380.0,
+      "km_per_liter": 14.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnMXTF5e_THQ0FeUUvWZhcCBxSUZJ1iJAz4A"
+    },
+    {
+      "Automatic": "Automatic",
+      "id": 3,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price_per_month": 500.0,
+      "km_per_liter": 10.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Y-ygEumYX8DDAmU3BSZw0I-uaSfrxbQfXA"
+    },
+    {
+      "id": 4,
+      "Automatic": "Automatic",
+      "brand": "Chevrolet",
+      "model": "Silverado",
+      "year": 2023,
+      "price_per_month": 450.0,
+      "km_per_liter": 9.7,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWAQ6G3zMz5w_bthrIu8-A46pq0LCnwOyFyg&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "Automatic": "Automatic",
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2023,
+      "price_per_month": 420.0,
+      "km_per_liter": 13.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2FVXLTbcO824r_PeH-NlK8JYZqH_mcj4o7g"
+    },
+    {
+      "id": 6,
+      "Automatic": "Automatic",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "year": 2023,
+      "price_per_month": 440.0,
+      "km_per_liter": 12.6,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbXNVfJQvT_H8kk2Z-eMSOa4b94ucgYoAPg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "brand": "Subaru",
+      "model": "Outback",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 470.0,
+      "km_per_liter": 11.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSUtiak7hZ9OB1mSd1qy2UjIj6f-WlI9b9g&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "brand": "Kia",
+      "model": "Sportage",
+      "year": 2023,
+      "price_per_month": 410.0,
+      "km_per_liter": 14.3,
+      "Automatic": "Automatic",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCPf7z0rkLIvgXwqilfR284AMSkJa9yWI9_w&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2023,
+      "price_per_month": 390.0,
+      "Automatic": "Automatic",
+      "km_per_liter": 13.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKQJXgrdmsgraXKS-l_QrQvZZXPB103TvUw&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 430.0,
+      "km_per_liter": 12.9,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJtL3pyglK1IE82-BxC1q2Yzp-ut0pqb1nfg&usqp=CAU"
+    },
+    {
+      "id": 11,
+      "brand": "BMW",
+      "model": "3 Series",
+      "Automatic": "Automatic",
+      "year": 2023,
+      "price_per_month": 550.0,
+      "km_per_liter": 10.2,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhznJFLsBLn9WlrzIf9fjxM6GjYMYjLFPfg&usqp=CAU"
+    },
+    {
+      "id": 12,
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "Automatic": "Automatic",
+      "year": 2023,
+      "price_per_month": 580.0,
+      "km_per_liter": 9.5,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNc5aUPxqdxcN8d5XM9uRhCiJvABW1kUQSw&usqp=CAU"
+    },
+    {
+      "id": 13,
+      "Automatic": "Automatic",
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2023,
+      "price_per_month": 540.0,
+      "km_per_liter": 11.0,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDDuuLrSz1qVwhdZS49gBd-n8EttYtwwY2oQ&usqp=CAU"
+    },
+    {
+      "id": 14,
+      "brand": "Lexus",
+      "model": "RX",
+      "year": 2023,
+      "price_per_month": 600.0,
+      "Automatic": "Automatic",
+      "km_per_liter": 10.8,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmtyx9SNenoBqhASi8VBbX-IMYE5TVrL8ELA&usqp=CAU"
+    },
+    {
+      "id": 15,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2023,
+      "Automatic": "Automatic",
+      "price_per_month": 700.0,
+      "km_per_liter": 0.0,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhedhNJ8t3Y_Fw12nBV0Gb-TGSMOkxtEWFEw&usqp=CAU"
+    }
+  ]
+}
